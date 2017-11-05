@@ -1,7 +1,6 @@
-package com.meituan.bb.strategy.web.goods;
+package com.meituan.bb.strategy.web.travel;
 
 import com.meituan.bb.strategy.common.strategy.StrategyInfo;
-import com.meituan.bb.strategy.common.strategy.StrategySupport;
 import org.springframework.stereotype.Service;
 
 /**

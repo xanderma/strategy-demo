@@ -1,4 +1,4 @@
-package com.meituan.bb.strategy.web.goods;
+package com.meituan.bb.strategy.web.travel;
 
 import com.meituan.bb.strategy.common.strategy.StrategySupport;
 
