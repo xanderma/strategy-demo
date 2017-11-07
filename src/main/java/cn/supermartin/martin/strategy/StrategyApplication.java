@@ -1,4 +1,4 @@
-package com.meituan.bb.strategy;
+package cn.supermartin.martin.strategy;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

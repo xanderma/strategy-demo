@@ -1,6 +1,6 @@
-package com.meituan.bb.strategy.web.travel;
+package cn.supermartin.martin.strategy.web.travel;
 
-import com.meituan.bb.strategy.common.strategy.StrategySupport;
+import cn.supermartin.martin.strategy.common.strategy.StrategySupport;
 
 /**
  * @author maxiaoding

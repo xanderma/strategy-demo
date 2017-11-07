@@ -1,4 +1,4 @@
-package com.meituan.bb.strategy;
+package cn.supermartin.martin.strategy;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

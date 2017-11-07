@@ -1,6 +1,6 @@
-package com.meituan.bb.strategy.web.travel;
+package cn.supermartin.martin.strategy.web.simplify;
 
-import com.meituan.bb.strategy.common.strategy.StrategyInfo;
+import cn.supermartin.martin.strategy.common.strategy.StrategyInfo;
 import org.springframework.stereotype.Service;
 
 /**
@@ -9,14 +9,14 @@ import org.springframework.stereotype.Service;
  * @description: 使用飞机出行的第二个版本
  */
 @Service
-public class PlaneMethoder10002 implements ITravelMethoder {
+public class PlaneMethoder20002 extends PlaneMethoder20001 {
     @Override
     public StrategyInfo SupportedStrategyInfo() {
-        return new StrategyInfo("Plane", "10002");
+        return new StrategyInfo("Plane", "20002");
     }
 
     @Override
     public String getTravelName() {
-        return "Plane 10002";
+        return "Plane 20002";
     }
 }

@@ -1,4 +1,4 @@
-package com.meituan.bb.strategy.common.strategy;
+package cn.supermartin.martin.strategy.common.strategy;
 
 /**
  * @author maxiaoding
